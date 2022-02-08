@@ -22,7 +22,7 @@
 [<img align="left" alt="prtmedia.gr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="PRTmedia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="PRTmedia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<!-- [<img align="left" alt="PRTmedia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="PRTmedia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PRTmedia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PRTmedia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 [website]: https://www.prtmedia.gr/
 [facebook]: https://www.facebook.com/prtmediaco
-[twitter]: #
+[twitter]: https://twitter.com/DimitriosPerts1
 [youtube]: #
 [instagram]: https://www.instagram.com/prtmediaco/
 [linkedin]: https://www.linkedin.com/company/prtmedia/
