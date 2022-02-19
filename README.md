@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 -->
 
 [website]: https://www.prtmedia.gr/
-[facebook]: https://www.facebook.com/prtmediaco
+[facebook]: https://www.facebook.com/people/Dimitris-Pertsinidis/100002618101438/
 [twitter]: https://twitter.com/DimitriosPerts1
 [youtube]: #
-[instagram]: https://www.instagram.com/prtmediaco/
-[linkedin]: https://www.linkedin.com/company/prtmedia/
+[instagram]: https://www.instagram.com/dimitris_pertsinidis/
+[linkedin]: https://www.linkedin.com/in/dimitris-pertsinidis/
