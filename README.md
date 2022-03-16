@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: http://goplanify.com/
+[website]: https://www.goplanify.com/
 [facebook]: https://www.facebook.com/people/Dimitris-Pertsinidis/100002618101438/
 [twitter]: https://twitter.com/DimitriosPerts1
 [youtube]: #
