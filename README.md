@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 [website]: https://www.goplanify.com/
 [facebook]: https://www.facebook.com/people/Dimitris-Pertsinidis/100002618101438/
-[twitter]: https://twitter.com/DimitriosPerts1
+[twitter]: https://twitter.com/dpertsin
 [youtube]: #
 [instagram]: https://www.instagram.com/dimitris_pertsinidis/
 [linkedin]: https://www.linkedin.com/in/dimitris-pertsinidis/
