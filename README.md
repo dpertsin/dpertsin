@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/people/Dimitris-Pertsinidis/100002618101438/
 [twitter]: https://twitter.com/dpertsin
 [youtube]: #
-[instagram]: https://www.instagram.com/dimitris_pertsinidis/
+[instagram]: https://www.instagram.com/dpertsin/
 [linkedin]: https://www.linkedin.com/in/dimitris-pertsinidis/
