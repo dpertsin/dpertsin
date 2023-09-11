@@ -1,7 +1,7 @@
 ### About me 👋
 <p>👋 Hi, I'm Dimitris, and welcome to my GitHub bio.</p>
 <p>✍️ I am in my fourth-year of <a class="reference external" href="https://www.uom.gr/en/dai/computer-science-and-technology">Computer Science and Technology at the University of Macedonia</a>.</p>
-<p>💻 I am in Love with PHP.</p>
+<p>💻 I am in Love with Programming, because I can make my life easier.</p>
 <p>✈️ I love to travel, and learning from different traditions & cultures!</p>
 <p>☕️ I drink tea, and especially enjoy a <a class="reference external" href="https://en.wikipedia.org/wiki/Sideritis">sideritis</a>.</p>
 <p>🔊 I love listening to Hip Hop, and many other kinds of music.</p>
