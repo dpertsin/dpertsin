@@ -208,7 +208,7 @@ const dpertsin = {
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation, feel free to <a href="mailto:dpertsin@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation, feel free to contact me by email</a>, I won't bite, I promise.
 
   </td>
 
